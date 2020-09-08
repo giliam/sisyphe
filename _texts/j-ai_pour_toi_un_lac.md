@@ -4,6 +4,7 @@ author: "Gilles Vigneault"
 published-in: "Gilles Vigneault"
 publication-date: 1962
 language: ":ca:"
+language_unicode: "1f1e8-1f1e6"
 date: 2020-09-08 11:21:00 +0200
 progress: 0
 ---
