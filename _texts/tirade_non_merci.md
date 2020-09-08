@@ -5,7 +5,7 @@ published-in: "Cyrano de Bergerac"
 publication-date: 1897
 language: ":fr:"
 date: 2020-09-08 11:20:00 +0200
-progress: 0
+progress: 80
 ---
 Et que faudrait-il faire ?
 Chercher un protecteur puissant, prendre un patron,
